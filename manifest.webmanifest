@@ -1,0 +1,19 @@
+{
+  "id": "/alpha-appliance",
+  "name": "Alpha Appliance And Refrigeration Repairs",
+  "short_name": "Alpha Appliance",
+  "description": "Appliance & refrigeration repair enquiries",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061f3e",
+  "theme_color": "#061f3e",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
